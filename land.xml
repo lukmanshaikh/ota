@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+<Stable>
+<land>
+<Filename>BootleggersROM-Oreo4land.2.0-BETA-Unshishufied-20180224.0541.zip</Filename>
+<LatestBuildUrl
+  id="latestbuild"
+  title="Latest Build"
+  description="Download Latest Build">https://drive.google.com/file/d/1H6VaqPB5o2q4xeGDi1yO6ZRecd7jsuA_/view</LatestBuildUrl>
+<BuildUrl
+  id="build"
+  title="Build"
+  description="Download a Build"></BuildUrl>
+<GAppsUrl
+  id="GApps"
+  title="Open GApps"
+  description="Download Open GApps">https://builds.nezorfla.me/opengapps/</GAppsUrl>
+<ChangelogUrl
+  id="changelog"
+  title="Changelog"
+  description="View Changelogs"></ChangelogUrl>
+</land>
+</Stable>
+</SlimOTA>
