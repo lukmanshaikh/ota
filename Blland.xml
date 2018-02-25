@@ -1,0 +1,16 @@
+<SlimOTA
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+	<Stable>
+		<!-- You'll put here your device code name -->
+		<land>
+			<!-- Here is placed the latest ROM build, example: People are in the 0223 and you made a 0226 build
+			so, in that case, put the name of the newer file and it'll notify the users about a new update -->
+			<Filename>BootleggersROM-Oreo4land.2.0-BETA-Unshishufied-20180224.0541.zip</Filename>
+			<!-- In this section, all the titles and description are empty because there are strings to set 
+			in there so, it's not required -->
+
+			<!-- Here goes your ROM update link -->
+			<RomUrl id="rom" title="" description="">https://drive.google.com/file/d/1H6VaqPB5o2q4xeGDi1yO6ZRecd7jsuA_/view</RomUrl>			
+		</land>
+	</Stable>
+</SlimOTA>
